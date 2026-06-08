@@ -1,11 +1,23 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="5iXDUfelDgTBa-S38yCt">
-    <mxGraphModel dx="1030" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1269" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="rCuTf7C3_Di3WrkqX8XD-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="40" width="286" x="354" as="geometry" />
+        <mxCell id="cjhfmyEN3WFEl8_9Gkc3-6" edge="1" parent="1" source="rCuTf7C3_Di3WrkqX8XD-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=12 12;" target="cjhfmyEN3WFEl8_9Gkc3-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rCuTf7C3_Di3WrkqX8XD-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="INTERNET" vertex="1">
+          <mxGeometry height="40" width="200" x="320" as="geometry" />
+        </mxCell>
+        <mxCell id="cjhfmyEN3WFEl8_9Gkc3-8" edge="1" parent="1" source="cjhfmyEN3WFEl8_9Gkc3-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=12 12;" target="cjhfmyEN3WFEl8_9Gkc3-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cjhfmyEN3WFEl8_9Gkc3-2" parent="1" style="html=1;whiteSpace=wrap;" value="AWS WAF" vertex="1">
+          <mxGeometry height="40" width="121" x="359" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cjhfmyEN3WFEl8_9Gkc3-7" parent="1" style="html=1;whiteSpace=wrap;" value="AWS WAF" vertex="1">
+          <mxGeometry height="40" width="120" x="360" y="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
